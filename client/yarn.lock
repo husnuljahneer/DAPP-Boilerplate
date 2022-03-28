@@ -7161,6 +7161,11 @@
   "resolved" "https://registry.npmjs.org/mock-fs/-/mock-fs-4.14.0.tgz"
   "version" "4.14.0"
 
+"moesif-browser-js@^1.8.6":
+  "integrity" "sha512-rIB2GSCo7Z6QSpYBILVuc4P7w7my6ABTRANHtWE6/TWWG2DotccDtmMPLs895BaHIKCmupNWKlEo36guTgibmA=="
+  "resolved" "https://registry.npmjs.org/moesif-browser-js/-/moesif-browser-js-1.8.6.tgz"
+  "version" "1.8.6"
+
 "move-concurrently@^1.0.1":
   "integrity" "sha1-viwAX9oy4LKa8fBdfEszIUxwH5I="
   "resolved" "https://registry.npmjs.org/move-concurrently/-/move-concurrently-1.0.1.tgz"
